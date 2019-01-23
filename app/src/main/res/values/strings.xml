@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Snack App</string>
+    <string name="veggie">Veggie</string>
+    <string name="nonVeggie">Non-Veggie</string>
+    <string name="snackName">Snack Name</string>
+    <string name="isVeggieToggle">Veggie Snack?</string>
+    <string name="addSnackTitle">Add new snack</string>
+    <string name="addSnack">Add Snack</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="ok">OK</string>
+    <string name="selectedSnacks">Selected Snacks:</string>
+</resources>
